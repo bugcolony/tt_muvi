@@ -16,5 +16,5 @@ OMDB_API_KEY=your_omdb_api_key
 
 #### Run server
 ```sh
-php artisan serve
+php artisan dev
 ```
